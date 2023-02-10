@@ -1,2 +1,1 @@
-A git exercise instructions
-Coding fUn!
+My first readme
